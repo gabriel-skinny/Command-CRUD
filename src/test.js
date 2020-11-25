@@ -56,7 +56,7 @@ describe("Suite de manipulação", () => {
       poder: "voar"
     }
     it("teste", async() => {
-      console.log("teste2131321")
+      console.log("teste2131321312321")
     })
 
     await database.atualizar(DEFAULT_ITEM_ATUALIZAR.id, novoDado)
